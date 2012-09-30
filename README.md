@@ -1,4 +1,4 @@
 AppIcons
 ========
 
-Default App Icons for iOS Apps
+Placeholder App Icons for iOS Apps
